@@ -1,2 +1,2 @@
-# Figures
-Painting 3 types of figures bt using inheritance
+# Composer
+Add with composer package symfony/serializer
